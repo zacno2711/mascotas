@@ -1,4 +1,4 @@
-
+import { Rutas } from "../../Rutas/Rutas"
 
 export function Carrusel() {
     return (
